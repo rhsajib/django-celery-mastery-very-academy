@@ -1,0 +1,1 @@
+# django-celery-mastery-very-academy
